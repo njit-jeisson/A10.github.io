@@ -1,0 +1,12 @@
+body {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+}
+
+#cookieDisplay {
+    margin-top: 20px;
+    padding: 10px;
+    background-color: #f0f0f0;
+    border: 1px solid #ccc;
+    display: inline-block;
+}
